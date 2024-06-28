@@ -1,0 +1,25 @@
+{
+  "name": "student-management-1",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "It is a cli based student management system",
+  "main": "main.js",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "student management system"
+  ],
+  "author": "Jaweria",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.9"
+  }
+}
